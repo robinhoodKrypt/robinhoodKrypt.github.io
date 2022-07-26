@@ -1,0 +1,6 @@
+:root{
+    /* loader.css */
+    --loaderBG: #000;
+    --loaderRING: #fff;
+    --loaderANIMATION: 'animate__fadeOut';
+}
